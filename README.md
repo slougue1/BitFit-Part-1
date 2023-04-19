@@ -1,4 +1,4 @@
-# Android Project 6 - *BitFit2*
+# Android App - *Health Track*
 
 Submitted by: **Sakina Lougue**
 
