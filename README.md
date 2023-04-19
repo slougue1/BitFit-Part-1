@@ -2,7 +2,7 @@
 
 Submitted by: **Sakina Lougue**
 
-**BitFit2** is a health metrics app that allows users to track ... [TODO] 
+**BitFit2** is a health metrics app that allows users to track their daily intakes
 
 Time spent: **11** hours spent in total
 
